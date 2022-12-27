@@ -1,7 +1,9 @@
+import Navbar from "./components/Navbar";
+
 function App() {
   return (
     <div >
-      <h2 className="text-2xl ">Hi, I'm a React App</h2>
+      <Navbar />
     </div>
   );
 }
