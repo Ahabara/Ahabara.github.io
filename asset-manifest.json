@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Ahabara/Ahabara.github.io/static/css/main.b6ae2faa.css",
-    "main.js": "/Ahabara/Ahabara.github.io/static/js/main.2f0d7c01.js",
-    "static/media/background.gif": "/Ahabara/Ahabara.github.io/static/media/background.75b2961f0ef3e9c8b2cb.gif",
-    "static/media/ANU.svg": "/Ahabara/Ahabara.github.io/static/media/ANU.93d27df83d12f9241daa83a9ab8252cb.svg",
-    "static/media/logo.png": "/Ahabara/Ahabara.github.io/static/media/logo.ee4252f34787339e240e.png",
-    "static/media/Monash.svg": "/Ahabara/Ahabara.github.io/static/media/Monash.1110c2effb39cd3560bb16e1814e1cff.svg",
-    "static/media/Deloitte.png": "/Ahabara/Ahabara.github.io/static/media/Deloitte.fdbb7758aed1b9df58fe.png",
-    "static/media/EnP.svg": "/Ahabara/Ahabara.github.io/static/media/EnP.83048baca163c5a0bab3f63ff0798964.svg",
-    "static/media/JS.svg": "/Ahabara/Ahabara.github.io/static/media/JS.572dc3f7f267bd032f7f1498705bc9b6.svg",
-    "index.html": "/Ahabara/Ahabara.github.io/index.html",
-    "main.b6ae2faa.css.map": "/Ahabara/Ahabara.github.io/static/css/main.b6ae2faa.css.map",
-    "main.2f0d7c01.js.map": "/Ahabara/Ahabara.github.io/static/js/main.2f0d7c01.js.map"
+    "main.css": "/static/css/main.394b4fff.css",
+    "main.js": "/static/js/main.31d355d7.js",
+    "static/media/background.gif": "/static/media/background.75b2961f0ef3e9c8b2cb.gif",
+    "static/media/ANU.svg": "/static/media/ANU.93d27df83d12f9241daa83a9ab8252cb.svg",
+    "static/media/logo.png": "/static/media/logo.ee4252f34787339e240e.png",
+    "static/media/Monash.svg": "/static/media/Monash.1110c2effb39cd3560bb16e1814e1cff.svg",
+    "static/media/Deloitte.png": "/static/media/Deloitte.fdbb7758aed1b9df58fe.png",
+    "static/media/EnP.svg": "/static/media/EnP.83048baca163c5a0bab3f63ff0798964.svg",
+    "static/media/JS.svg": "/static/media/JS.572dc3f7f267bd032f7f1498705bc9b6.svg",
+    "index.html": "/index.html",
+    "main.394b4fff.css.map": "/static/css/main.394b4fff.css.map",
+    "main.31d355d7.js.map": "/static/js/main.31d355d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6ae2faa.css",
-    "static/js/main.2f0d7c01.js"
+    "static/css/main.394b4fff.css",
+    "static/js/main.31d355d7.js"
   ]
 }
