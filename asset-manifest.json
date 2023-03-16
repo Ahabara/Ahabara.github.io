@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.394b4fff.css",
-    "main.js": "/static/js/main.31d355d7.js",
+    "main.css": "/static/css/main.2d714d1d.css",
+    "main.js": "/static/js/main.fd32ca41.js",
     "static/media/background.gif": "/static/media/background.75b2961f0ef3e9c8b2cb.gif",
     "static/media/ANU.svg": "/static/media/ANU.93d27df83d12f9241daa83a9ab8252cb.svg",
     "static/media/logo.png": "/static/media/logo.ee4252f34787339e240e.png",
@@ -10,11 +10,11 @@
     "static/media/EnP.svg": "/static/media/EnP.83048baca163c5a0bab3f63ff0798964.svg",
     "static/media/JS.svg": "/static/media/JS.572dc3f7f267bd032f7f1498705bc9b6.svg",
     "index.html": "/index.html",
-    "main.394b4fff.css.map": "/static/css/main.394b4fff.css.map",
-    "main.31d355d7.js.map": "/static/js/main.31d355d7.js.map"
+    "main.2d714d1d.css.map": "/static/css/main.2d714d1d.css.map",
+    "main.fd32ca41.js.map": "/static/js/main.fd32ca41.js.map"
   },
   "entrypoints": [
-    "static/css/main.394b4fff.css",
-    "static/js/main.31d355d7.js"
+    "static/css/main.2d714d1d.css",
+    "static/js/main.fd32ca41.js"
   ]
 }
