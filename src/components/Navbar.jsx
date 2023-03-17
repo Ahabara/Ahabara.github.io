@@ -8,13 +8,12 @@ const Navbar = () => {
     const [nav, setNav] = useState(false);
     const handleClick = () => {
         setNav(!nav);
-        console.log("pressed");
     };
 
     return (
         // border-2 border-b-fuchsia-400
         <div
-            className="  fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-b from-[#006fad] to-transparent bg-opacity-25	text-gray-300">
+            className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-gradient-to-b from-[#006fad] to-transparent bg-opacity-25 text-gray-300">
             <div>
                 <img src={Logo} alt="logo" style={{width: '50px'}}/>
             </div>

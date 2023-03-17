@@ -13,22 +13,19 @@ const TimeLineData = [
     { year: 2020, text: 'Graduated from ANU with a Bachelor of Commerce/Bachelor of Arts', imageURL:ANU, alt: "ANU logo"},
     { year: 2020, text: 'Worked full time in accountancy. During this time, I spent my spare time learning Web Development', imageURL: JS, alt: "JS Logo"},
     { year: 2021, text: 'I quit my job to study my Masters of Information Technology at Monash University', imageURL:Monash, alt: "Monash Logo"},
-    { year: 2022, text: "Joining Deloitte as a Cybersecurity Intern!", imageURL:Deloitte, alt: "Deloitte Logo"},
+    { year: 2022, text: "Joining Deloitte as a CyberSecurity Intern!", imageURL:Deloitte, alt: "Deloitte Logo"},
 ];
 const Carousel = () => {
-
-    let data = TimeLineData.map(
-        (listItem)=> <li> {listItem.text}</li>
-    )
 
 
 
     return (
         <>
-            <section name="work" className="carousel w-full h-full bg-gradient-to-b from-pink-400 to-[#006fad] text-gray-300 p-2">
-                <div className="flex flex-wrap justify-center">
+            <section name="work" className=" w-full h-full bg-gradient-to-b from-pink-400 to-[#006fad] text-gray-300 p-2">
+                <p className="text-4xl font-bold  text-center pb-14	" > Timeline </p>
+                <div className="flex flex-row overflow-x-auto  md:justify-center">
                     {
-                        TimeLineData.map((e, i) => (
+                        TimeLineData.map((e) => (
                             <Card image = {e.imageURL} description={e.text} year={e.year} alt={e.alt}/>
                         ))
                     }

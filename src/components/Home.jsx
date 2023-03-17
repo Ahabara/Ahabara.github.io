@@ -1,9 +1,12 @@
 import React from 'react';
 import {HiArrowRight} from "react-icons/hi";
-import Carousel from "./Carousel";
+import Resume from '../assets/Resume.pdf'
 
 const DownloadResume = () => <>
     <button
+        onClick={()=>{
+            window.open(Resume, "_blank");
+        }}
         className="bg-gradient-to-r from-[#13ADC7] to-[#945DD6] hover:from-[#27c5c0] hover:to-[#e346ca] hover:transition duration-300 ease-in border-2 text-white font-bold px-6 py-3 my-2 rounded-full ">
         Download Résumé
     </button>
