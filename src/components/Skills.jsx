@@ -12,7 +12,7 @@ function Technology(props) {
         </p>
         <p className="text-xl"> Experienced in:</p>
         <ul className="ml-2">
-            {props.li.map((i, k) =>
+            {props.li.map((i) =>
                 <li> {i} </li>
             )}
         </ul>
@@ -46,7 +46,7 @@ const Skills = () => {
     ]
     return (
         <div name='skills' className="w-full h-full bg-gradient-to-b from-[#006fad] to-pink-400 text-gray-300 p-4 pt-8 md:h-[70vh] ">
-            <ul className="flex flex-row flex-wrap md:grid grid-cols-3 gap-10  mr-8 ml-8">
+            <ul className="flex flex-row overflow-x-auto md:grid grid-cols-3 gap-10  mr-8 ml-8">
                 <Technology icon={DiReact} title={"Front End"} li={frontEnd}/>
                 <Technology icon={DiFirebase} title={"Back End"} li={backEnd}/>
                 <Technology icon={RiMoneyDollarCircleLine} title={"Financial"} li={financial}/>
