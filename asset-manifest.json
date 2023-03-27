@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ac8214b.css",
-    "main.js": "/static/js/main.e98c11b5.js",
+    "main.css": "/static/css/main.de90c170.css",
+    "main.js": "/static/js/main.4819716a.js",
     "static/media/background.gif": "/static/media/background.75b2961f0ef3e9c8b2cb.gif",
-    "static/media/Resume.pdf": "/static/media/Resume.dc421e223de05d929a82.pdf",
+    "static/media/Resume.pdf": "/static/media/Resume.9b4cde2714da39bbe788.pdf",
+    "static/media/Deloitte.png": "/static/media/Deloitte.454dfd58a2937292bcae.png",
     "static/media/ANU.svg": "/static/media/ANU.93d27df83d12f9241daa83a9ab8252cb.svg",
     "static/media/logo.png": "/static/media/logo.ee4252f34787339e240e.png",
     "static/media/Monash.svg": "/static/media/Monash.1110c2effb39cd3560bb16e1814e1cff.svg",
-    "static/media/Deloitte.png": "/static/media/Deloitte.fdbb7758aed1b9df58fe.png",
+    "static/media/moon.png": "/static/media/moon.72fd873d47cd48a8dd36.png",
     "static/media/EnP.svg": "/static/media/EnP.83048baca163c5a0bab3f63ff0798964.svg",
     "static/media/JS.svg": "/static/media/JS.572dc3f7f267bd032f7f1498705bc9b6.svg",
     "index.html": "/index.html",
-    "main.6ac8214b.css.map": "/static/css/main.6ac8214b.css.map",
-    "main.e98c11b5.js.map": "/static/js/main.e98c11b5.js.map"
+    "main.de90c170.css.map": "/static/css/main.de90c170.css.map",
+    "main.4819716a.js.map": "/static/js/main.4819716a.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ac8214b.css",
-    "static/js/main.e98c11b5.js"
+    "static/css/main.de90c170.css",
+    "static/js/main.4819716a.js"
   ]
 }
